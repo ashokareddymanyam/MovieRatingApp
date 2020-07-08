@@ -2,10 +2,9 @@
 FindTopOrders.java is for stadalone code to find top 2 orders 
 The file is available in com.test.movieratingapp package same Project 
 
+This Application Built on StringBoot having auto configuration and for faster development
 
-Built on StringBoot for auto configuration and faster development
-
-Prerequisites Data.sql anded in resource folder
+Prerequisites Data.sql added in resource folder
 -----------------------------------------------------------------
 pass the customer/{id}/rate/4.45?movie="movieName"
 Post call for rating movie url
@@ -46,3 +45,4 @@ output:
     "customerAvgRating": 3.7833333333333337,
     "avgRating": 3.021428571428572
 }
+
